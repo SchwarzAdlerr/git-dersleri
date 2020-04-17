@@ -1,6 +1,6 @@
 # git-dersleri
 
-##projenin amacı
+## projenin amacı
 **kalın kelime** <br/>
 *italik kelime*
 
